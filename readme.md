@@ -25,7 +25,7 @@ pada pengerjaan technical test ini saya menggunakan beberapa library/package tam
 - laravel passport
 - laravel ramsey/uuid
 
-##NOTE
+## **NOTE
 Saya menyertakan database yang sudah berisi beberapa data jika ingin langsung menggunakan database dari hasil yang sudah pernah saya coba,diantaranya data login berupa:
 email = yaya@gmail.com
 pass  = 12345  
