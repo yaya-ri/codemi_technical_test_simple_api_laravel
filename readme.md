@@ -12,10 +12,10 @@ Pada endpoint diatas mangharuskan client login terlebih dahulu untuk mendapatkan
 
 ## EndPoint utama
 
-    - localhost:8000/api/classes (GET) --> menampilkan semua <i>class</i>
-    - localhost:8000/api/students/{id} (GET) --> menampilkan class beserta student disetiap classnya dengan parameter id kelas
-    - localhost:8000/api/classes (POST) --> menambahkan data pada tabel classes
-    - localhost:8000/api/students (POST) --> menambahkan data pada tabel students
+    - localhost:8000/api/classes (GET)  //menampilkan semua class
+    - localhost:8000/api/students/{id} (GET) //menampilkan class beserta student disetiap classnya dengan parameter id kelas
+    - localhost:8000/api/classes (POST) //menambahkan data pada tabel classes
+    - localhost:8000/api/students (POST) //menambahkan data pada tabel students
 
 sebelum mengakses endpoint utama diatas seperti yang sudah saya jelaskan diawal user diwajibkan untuk melakukan login terlebih dahulu untuk mendapatkan akses token. setelah mendapatkanya token digunakan pada "header" dengan key "Authorization" dan "value" = 
 "Bearer ---token akses---"
