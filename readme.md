@@ -1,7 +1,7 @@
 
 ## Dokumentasi
 
-Dalam API yang saya buat terdiri dari 2 endpoint GET dan 2 endpoint POST sesuai deskripsi pada technical test. akan tetapi saya menambahkan authentikasi dengan menggunakan proteksi OAuth2 demi standart pertukaran data yang lebih aman untuk mengakses 4 endpoint yang sesuai pada deskripsi.
+Dalam API yang saya buat terdiri dari 2 endpoint GET dan 2 endpoint POST sesuai deskripsi. akan tetapi saya menambahkan authentikasi dengan menggunakan proteksi OAuth2 demi standart pertukaran data yang lebih aman untuk mengakses 4 endpoint yang sesuai pada deskripsi.
 
 ## EndPoint Register dan Login
     
