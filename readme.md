@@ -21,7 +21,7 @@ sebelum mengakses endpoint utama diatas seperti yang sudah saya jelaskan diawal 
 "Bearer ---token akses---"
 
 ## Library/Package
-pada pengerjaan technical test ini saya menggunakan beberapa library/package tambahan berupa:
+pada pengerjaan API ini saya menggunakan beberapa library/package tambahan berupa:
 - laravel passport
 - laravel ramsey/uuid
 
